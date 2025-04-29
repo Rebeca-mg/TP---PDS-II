@@ -1,0 +1,54 @@
+User Stories: 
+Kristyn Hoffmann - 
+
+Como jogador, quero jogar um jogo de sequência de cores para exercitar minha memória.
+Critérios de aceitação:
+1. O sistema deve gerar uma sequência de cores aleatórias para memorização.
+2. O sistema deve avisar se a sequência está correta ou errada.
+3. O sistema deve aumentar o número de cores na sequência após cada rodada correta.
+4. O sistema deve mostrar a sequência por um tempo determinado antes de escondê-la. 
+
+Como jogador, quero ver minha pontuação e o ranking geral para saber meu desempenho.
+Critérios de aceitação:
+1. O sistema deve exibir um ranking com os melhores jogadores e suas pontuações.
+2. O sistema deve atualizar o ranking automaticamente após cada jogo.
+
+
+Rebeca Muniz - 
+Como professora de uma creche, quero um jogo lúdico para entreter e divertir crianças enquanto exercitam a memória.
+Critérios de aceitação: 
+1. o sistema deve ser intuitivo.
+2. o sistema deve armazenar o nome dos alunos e suas respectivas pontuações.
+3. a dificuldade deve aumentar progressivamente (sequências mais longas).
+
+Como gerente de uma casa de repouso, quero um jogo de memória simples em que idosos possam exercitar suas capacidades cognitivas 
+Critérios de aceitação 
+1. o sistema deve permitir ajustes de dificuldade.
+2. o sistema deve ser de simples uso.
+3. as instruções devem ser claras.
+
+
+Marianna Alves -
+
+Como administrador, quero que o sistema salve o histórico de partidas para acompanhar a evolução dos jogadores.
+Critérios de aceitação:
+1. O sistema deve armazenar data, nome do jogador e pontuação.
+2. O histórico deve poder ser consultado depois por ordem de data ou pontuação.
+
+Como jogador, quero poder pausar o jogo para continuar depois sem perder o progresso.
+Critérios de aceitação:
+1. O sistema deve ter um botão "Pausar" e "Continuar".
+2. Ao pausar, a sequência atual deve ser salva.
+
+
+Maria Fernanda Marques -
+
+Como administrador, quero poder limpar o ranking e o histórico de partidas para começar do zero quando quiser.
+Critérios de aceitação:
+1. O sistema deve ter uma opção de "Resetar dados".
+2. O sistema deve pedir confirmação antes de apagar os dados.
+
+Como jogador, quero bater meu próprio recorde para me desafiar.
+Critérios de aceitação:
+1. O sistema deve guardar a maior pontuação já alcançada pelo jogador.
+2. O sistema deve comparar a pontuação atual com o recorde pessoal no final do jogo.
