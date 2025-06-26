@@ -307,5 +307,3 @@ Projeto acadêmico para fins educacionais. Baseado no jogo clássico Simon (1978
 - **Comunidade C++**: Pela documentação e recursos
 - **doctest**: Pela excelente biblioteca de testes
 - **Doxygen**: Pela ferramenta de documentação
-
---
